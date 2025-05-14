@@ -1,1 +1,1 @@
-Code for work with two datasets at the same time
+Code for working with two datasets simultaneously
